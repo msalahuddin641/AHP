@@ -1,3 +1,3 @@
 # AHP 
 
-AHP Web Application.
+AHP Web Application. Multy-criteria decision making.
